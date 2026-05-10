@@ -6,12 +6,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
@@ -23,6 +25,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -34,6 +37,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -43,6 +47,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
@@ -52,4 +57,9 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->

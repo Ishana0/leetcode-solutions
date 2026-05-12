@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ishana0/leetcode-solutions/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
@@ -64,6 +65,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ishana0/leetcode-solutions/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |

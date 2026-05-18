@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Ishana0/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ishana0/leetcode-solutions/tree/master/0078-subsets) |
@@ -103,5 +104,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ishana0/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Ishana0/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

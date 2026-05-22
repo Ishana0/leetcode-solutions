@@ -50,6 +50,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Ishana0/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ishana0/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Ishana0/leetcode-solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ishana0/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -66,6 +67,7 @@
 | [0075-sort-colors](https://github.com/Ishana0/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ishana0/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -109,6 +111,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Ishana0/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Ishana0/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
@@ -143,4 +146,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->

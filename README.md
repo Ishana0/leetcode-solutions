@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/Ishana0/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Ishana0/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Ishana0/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -171,4 +173,8 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishana0/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishana0/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Ishana0/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Ishana0/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ishana0/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ishana0/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Ishana0/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Ishana0/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -72,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ishana0/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Ishana0/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Ishana0/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ishana0/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Linked List

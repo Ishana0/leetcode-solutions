@@ -19,6 +19,7 @@
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Ishana0/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -33,6 +34,7 @@
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Ishana0/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
@@ -162,6 +164,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishana0/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishana0/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Ishana0/leetcode-solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
@@ -189,5 +192,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

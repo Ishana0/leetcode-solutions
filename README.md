@@ -34,6 +34,7 @@
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Ishana0/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ishana0/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Math
@@ -122,6 +123,7 @@
 | [0141-linked-list-cycle](https://github.com/Ishana0/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Ishana0/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
@@ -188,10 +190,15 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ishana0/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ishana0/leetcode-solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ishana0/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

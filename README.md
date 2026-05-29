@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/Ishana0/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@
 | [0143-reorder-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Ishana0/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | [0155-min-stack](https://github.com/Ishana0/leetcode-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Ishana0/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ishana0/leetcode-solutions/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -201,4 +205,9 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ishana0/leetcode-solutions/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->

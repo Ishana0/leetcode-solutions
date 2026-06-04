@@ -25,6 +25,7 @@
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Ishana0/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -48,6 +49,7 @@
 | [0050-powx-n](https://github.com/Ishana0/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ishana0/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0147-insertion-sort-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -148,11 +151,13 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -256,4 +261,9 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

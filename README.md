@@ -82,6 +82,7 @@
 | [0141-linked-list-cycle](https://github.com/Ishana0/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -122,6 +123,7 @@
 | [0075-sort-colors](https://github.com/Ishana0/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
@@ -233,6 +236,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Ishana0/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ishana0/leetcode-solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
@@ -247,6 +251,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Sliding Window
 |  |

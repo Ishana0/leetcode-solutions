@@ -21,6 +21,7 @@
 | [0149-max-points-on-a-line](https://github.com/Ishana0/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishana0/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -229,6 +230,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishana0/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishana0/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ishana0/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ishana0/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ishana0/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
@@ -285,6 +288,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ishana0/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishana0/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ishana0/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ishana0/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -304,4 +308,8 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Ishana0/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

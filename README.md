@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ishana0/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Ishana0/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ishana0/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ishana0/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ishana0/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ishana0/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
@@ -321,6 +323,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |

@@ -24,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Ishana0/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -110,6 +111,7 @@
 | [0131-palindrome-partitioning](https://github.com/Ishana0/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
@@ -122,6 +124,7 @@
 | ------- |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0113-path-sum-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ishana0/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -328,6 +332,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Graph Theory
 |  |
 | ------- |

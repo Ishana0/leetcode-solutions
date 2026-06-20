@@ -51,6 +51,7 @@
 | [0146-lru-cache](https://github.com/Ishana0/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Ishana0/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishana0/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ishana0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Ishana0/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -64,6 +65,7 @@
 | [0070-climbing-stairs](https://github.com/Ishana0/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Ishana0/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ishana0/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ishana0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Ishana0/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -120,6 +122,7 @@
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Ishana0/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ishana0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Bit Manipulation

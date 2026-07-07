@@ -71,6 +71,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Ishana0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Ishana0/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Ishana0/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Ishana0/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |

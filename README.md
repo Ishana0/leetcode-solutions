@@ -27,6 +27,7 @@
 | [0164-maximum-gap](https://github.com/Ishana0/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishana0/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ishana0/leetcode-solutions/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Ishana0/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Ishana0/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -84,6 +85,7 @@
 | [0131-palindrome-partitioning](https://github.com/Ishana0/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ishana0/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/Ishana0/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Ishana0/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -371,6 +373,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0174-dungeon-game](https://github.com/Ishana0/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Graph Theory

@@ -38,6 +38,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Ishana0/leetcode-solutions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Ishana0/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Ishana0/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -265,6 +266,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Ishana0/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Ishana0/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Tree
@@ -401,4 +403,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ishana0/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Ishana0/leetcode-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

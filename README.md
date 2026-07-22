@@ -150,6 +150,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ishana0/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -274,6 +275,7 @@
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Ishana0/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ishana0/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Tree
 |  |

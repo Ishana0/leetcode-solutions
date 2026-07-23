@@ -45,6 +45,7 @@
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -190,6 +191,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Linked List
 |  |
 | ------- |
@@ -400,6 +402,7 @@
 | [0174-dungeon-game](https://github.com/Ishana0/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -425,4 +428,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ishana0/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->

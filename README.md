@@ -343,6 +343,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Ishana0/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/Ishana0/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
@@ -360,6 +361,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/Ishana0/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Sliding Window
 |  |
@@ -427,6 +429,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ishana0/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Ishana0/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/Ishana0/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |

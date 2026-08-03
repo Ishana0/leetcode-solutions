@@ -30,6 +30,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishana0/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ishana0/leetcode-solutions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Ishana0/leetcode-solutions/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Ishana0/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -149,6 +150,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Ishana0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Ishana0/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ishana0/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -186,6 +188,7 @@
 | [0147-insertion-sort-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Ishana0/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Ishana0/leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -437,5 +440,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->

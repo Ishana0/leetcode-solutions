@@ -102,6 +102,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ishana0/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ishana0/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -467,4 +469,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ishana0/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

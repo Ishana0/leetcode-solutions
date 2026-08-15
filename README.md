@@ -49,6 +49,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3660-jump-game-ix](https://github.com/Ishana0/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@
 | [0198-house-robber](https://github.com/Ishana0/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [3660-jump-game-ix](https://github.com/Ishana0/leetcode-solutions/tree/master/3660-jump-game-ix) |
 ## Recursion
 |  |
 | ------- |

@@ -48,6 +48,7 @@
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3660-jump-game-ix](https://github.com/Ishana0/leetcode-solutions/tree/master/3660-jump-game-ix) |
@@ -72,6 +73,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Ishana0/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
@@ -209,6 +211,7 @@
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Linked List
 |  |
@@ -258,6 +261,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Merge Sort
 |  |
 | ------- |
@@ -458,6 +462,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Rolling Hash
 |  |

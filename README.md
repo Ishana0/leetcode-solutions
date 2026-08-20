@@ -52,6 +52,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3660-jump-game-ix](https://github.com/Ishana0/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -112,6 +113,7 @@
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3660-jump-game-ix](https://github.com/Ishana0/leetcode-solutions/tree/master/3660-jump-game-ix) |
 ## Recursion
 |  |
@@ -173,6 +175,7 @@
 | [0344-reverse-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ishana0/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -468,6 +471,7 @@
 | [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Rolling Hash
 |  |

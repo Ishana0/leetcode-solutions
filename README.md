@@ -50,6 +50,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/Ishana0/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -218,6 +219,7 @@
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/Ishana0/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Linked List
@@ -470,6 +472,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/Ishana0/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -501,4 +504,12 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Ishana0/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Ishana0/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->

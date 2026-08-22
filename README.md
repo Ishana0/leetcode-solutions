@@ -43,6 +43,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/Ishana0/leetcode-solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Ishana0/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -115,6 +116,7 @@
 | [0198-house-robber](https://github.com/Ishana0/leetcode-solutions/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -517,4 +519,12 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Ishana0/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->

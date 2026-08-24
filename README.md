@@ -58,6 +58,7 @@
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2498-frog-jump-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [3660-jump-game-ix](https://github.com/Ishana0/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -258,6 +259,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishana0/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Ishana0/leetcode-solutions/tree/master/0704-binary-search) |
+| [2498-frog-jump-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -483,6 +485,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2498-frog-jump-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 ## Rolling Hash
 |  |
 | ------- |

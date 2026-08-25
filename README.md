@@ -42,6 +42,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -117,6 +118,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ishana0/leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -483,6 +485,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
+| [0376-wiggle-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Ishana0/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |

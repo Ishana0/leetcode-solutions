@@ -42,6 +42,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ishana0/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Ishana0/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0377-combination-sum-iv) |
@@ -121,6 +122,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ishana0/leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Ishana0/leetcode-solutions/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -429,6 +431,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Ishana0/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ishana0/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ishana0/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Ishana0/leetcode-solutions/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/Ishana0/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ishana0/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -538,10 +541,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ishana0/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ishana0/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Longest Increasing Subsequence
 |  |

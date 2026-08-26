@@ -55,6 +55,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Ishana0/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Ishana0/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ishana0/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
@@ -124,6 +125,7 @@
 | [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ishana0/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3660-jump-game-ix](https://github.com/Ishana0/leetcode-solutions/tree/master/3660-jump-game-ix) |

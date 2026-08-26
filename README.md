@@ -62,6 +62,7 @@
 | [1472-design-browser-history](https://github.com/Ishana0/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ishana0/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2498-frog-jump-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [3660-jump-game-ix](https://github.com/Ishana0/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -237,6 +238,7 @@
 | [1029-two-city-scheduling](https://github.com/Ishana0/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ishana0/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Linked List
 |  |
 | ------- |
@@ -495,6 +497,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ishana0/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ishana0/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2498-frog-jump-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 ## Rolling Hash
 |  |

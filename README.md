@@ -67,6 +67,7 @@
 | [2498-frog-jump-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [3660-jump-game-ix](https://github.com/Ishana0/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/Ishana0/leetcode-solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ishana0/leetcode-solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3660-jump-game-ix](https://github.com/Ishana0/leetcode-solutions/tree/master/3660-jump-game-ix) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/Ishana0/leetcode-solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Recursion
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Ishana0/leetcode-solutions/tree/master/0704-binary-search) |
 | [2498-frog-jump-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/2498-frog-jump-ii) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/Ishana0/leetcode-solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -422,6 +425,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Ishana0/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Ishana0/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Ishana0/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/Ishana0/leetcode-solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -486,10 +490,12 @@
 | [0225-implement-stack-using-queues](https://github.com/Ishana0/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Ishana0/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/Ishana0/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/Ishana0/leetcode-solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ishana0/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/Ishana0/leetcode-solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -552,4 +558,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/Ishana0/leetcode-solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 <!---LeetCode Topics End-->

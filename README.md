@@ -46,6 +46,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/Ishana0/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/Ishana0/leetcode-solutions/tree/master/0704-binary-search) |
@@ -126,6 +127,7 @@
 | [0322-coin-change](https://github.com/Ishana0/leetcode-solutions/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Ishana0/leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/Ishana0/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |

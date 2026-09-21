@@ -40,6 +40,7 @@
 | [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Ishana0/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/Ishana0/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ishana0/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -569,5 +570,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ishana0/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/Ishana0/leetcode-solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 <!---LeetCode Topics End-->

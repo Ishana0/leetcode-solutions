@@ -205,6 +205,7 @@
 | [0090-subsets-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Ishana0/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Ishana0/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Ishana0/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ishana0/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Trie
@@ -284,6 +285,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ishana0/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ishana0/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Ishana0/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |

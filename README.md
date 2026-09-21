@@ -51,6 +51,7 @@
 | [0403-frog-jump](https://github.com/Ishana0/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Ishana0/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Ishana0/leetcode-solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Ishana0/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ishana0/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -90,6 +91,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Ishana0/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Ishana0/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Ishana0/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ishana0/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [3668-restore-finishing-order](https://github.com/Ishana0/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -571,5 +573,6 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ishana0/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ishana0/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/Ishana0/leetcode-solutions/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 <!---LeetCode Topics End-->

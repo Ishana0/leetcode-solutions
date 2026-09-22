@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ishana0/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ishana0/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -166,6 +167,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ishana0/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ishana0/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ishana0/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishana0/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -517,6 +519,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ishana0/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0976-largest-perimeter-triangle](https://github.com/Ishana0/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |

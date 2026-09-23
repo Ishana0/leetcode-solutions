@@ -93,6 +93,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Ishana0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Ishana0/leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Ishana0/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Ishana0/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ishana0/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishana0/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -208,6 +209,7 @@
 | [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Ishana0/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0212-word-search-ii](https://github.com/Ishana0/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/Ishana0/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ishana0/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ishana0/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Ishana0/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -253,6 +255,7 @@
 | [0169-majority-element](https://github.com/Ishana0/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ishana0/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Ishana0/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ishana0/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ishana0/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Ishana0/leetcode-solutions/tree/master/0912-sort-an-array) |
